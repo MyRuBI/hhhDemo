@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.feixiang2018.com/iosapp/57.png</string>
+					<string>https://raw.githubusercontent.com/MyRuBI/hhhDemo/master/57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.feixiang2018.com/iosapp/512.png</string>
+					<string>https://raw.githubusercontent.com/MyRuBI/hhhDemo/master/512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
